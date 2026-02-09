@@ -14,7 +14,10 @@ LLMの普及によって、GitHub上での開発者の行動やレビューの�
 
 ## 🏆 Awards & Projects
 特にUnityを用いたインターフェース開発に注力しています
-
+### 懸垂王 (Next.js / TypeScript / MediaPipe)
+- **技育CAMPハッカソン 努力賞**
+- [Repository](https://github.com/ballfos/kensuiou-nextjs)
+- MediaPipeを用いた懸垂管理システム。ブラウザ上で懸垂の回数を正確にカウントするロジックを実装
 ### Game Development (Unity / C#)
 - **U-22プログラミングコンテスト2025入賞 (Best32)**
   - [U-22入賞作品 紹介動画](https://youtu.be/e0sobJUyvEQ)
