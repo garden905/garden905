@@ -28,4 +28,4 @@ LLMの普及によって、GitHub上での開発者の行動やレビューの�
   - 技育CAMP優勝作品のUI/UXを再構築。プロダクトの完成度と技術の使いどころを評価いただきました
 ## 🛠 Skills
 - **Languages:** Python, C#, TypeScript, C/C++
-- **Frameworks/Tools:** Unity, React, MediaPipe, GitHub API, LaTeX, Git
+- **Frameworks/Tools:** Unity, React, Next.js, MediaPipe, GitHub API, LaTeX, Git
