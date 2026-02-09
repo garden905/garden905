@@ -22,7 +22,8 @@ LLMの普及によって、GitHub上での開発者の行動やレビューの�
 - **技育CAMPハッカソン 最優秀賞**
   - [技育CAMP優勝作品 プレイ動画](https://m.youtube.com/watch?v=DySY66-FzOo)
   - チーム開発でのメインプログラムおよび進捗管理を担当
-
+- **技育博2025 株式会社DeNA賞 受賞**
+  - 技育CAMP優勝作品のUI/UXを再構築。プロダクトの完成度と技術の使いどころを評価いただきました
 ## 🛠 Skills
 - **Languages:** Python, C#, TypeScript, C/C++
 - **Frameworks/Tools:** Unity, React, MediaPipe, GitHub API, LaTeX, Git
