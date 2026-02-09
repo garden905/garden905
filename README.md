@@ -13,7 +13,6 @@ LLMの普及によって、GitHub上での開発者の行動やレビューの�
 -  AI生成コードは作成者の負担を減らす一方、レビュー時間を大幅に増加させる（中央値で約6倍）傾向を特定
 
 ## 🏆 Awards & Projects
-特にUnityを用いたインターフェース開発に注力しています
 ### 懸垂王 (Next.js / TypeScript / MediaPipe)
 - **技育CAMPハッカソン 努力賞**
 - [Repository](https://github.com/ballfos/kensuiou-nextjs)
