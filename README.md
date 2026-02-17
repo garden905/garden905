@@ -22,7 +22,7 @@ LLMの普及によって、GitHub上での開発者の行動やレビューの�
   - [U-22入賞作品 紹介動画](https://youtu.be/e0sobJUyvEQ)
   - Webカメラのみで高精度なハンドトラッキングを実現するシステムの構築
 - **技育CAMPハッカソン 最優秀賞**
-  - [技育CAMP優勝作品 プレイ動画](https://m.youtube.com/watch?v=DySY66-FzOo)
+  - [技育CAMP優勝作品 プレイ動画](https://youtu.be/c0L7RA_ip1k?si=ymRh5sO4YjHRUE54)
   - チーム開発でのメインプログラムおよび進捗管理を担当
 - **技育博2025 株式会社DeNA賞 受賞**
   - 技育CAMP優勝作品のUI/UXを再構築。プロダクトの完成度と技術の使いどころを評価いただきました
